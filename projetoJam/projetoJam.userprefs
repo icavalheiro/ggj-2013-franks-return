@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Project\Scritps\MainScene\SceneBehaviour.cs">
+    <Files>
+      <File FileName="Assets\_Project\Scritps\MenuScene\MenuBehaviour.cs" Line="155" Column="4" />
+      <File FileName="Assets\_Project\Scritps\MainScene\SceneBehaviour.cs" Line="249" Column="19" />
+      <File FileName="Assets\_Project\Scritps\MainScene\EnergyBehaviour.cs" Line="11" Column="45" />
+      <File FileName="Assets\_Project\Scritps\MainScene\HeartBehaviour.cs" Line="61" Column="17" />
+      <File FileName="Assets\_Project\Scritps\MainScene\GameplayAudioPlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
